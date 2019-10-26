@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\nasib\desktop\курсач\xor_dechypher\xor_dechypher\source.c(95): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nasib\desktop\курсач\xor_dechypher\xor_dechypher\source.c(235): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nasib\desktop\курсач\xor_dechypher\xor_dechypher\source.c(239): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nasib\desktop\курсач\xor_dechypher\xor_dechypher\source.c(259): warning C4013: need_size: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nasib\desktop\курсач\xor_dechypher\xor_dechypher\source.c(607): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nasib\desktop\курсач\xor_dechypher\xor_dechypher\source.c(837): warning C4018: <: несоответствие типов со знаком и без знака
+  xor_dechypher.vcxproj -> C:\Users\nasib\Desktop\КУРСАЧ\xor_dechypher\Debug\xor_dechypher.exe
