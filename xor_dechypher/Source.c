@@ -9,6 +9,8 @@
 #include "Neighbor.h"
 #include <time.h>
 
+//Вагиз, посмотри комментарий! Он тут. 
+
 #define kMaxKeySize 1024
 
 enum
