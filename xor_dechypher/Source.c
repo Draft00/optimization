@@ -10,6 +10,7 @@
 #include <time.h>
 
 //Вагиз, посмотри комментарий! Он тут. 
+//mfgbgjsfdjghadhg
 
 #define kMaxKeySize 1024
 
@@ -380,7 +381,7 @@ int analysis_bin(unsigned char* tempkey, int sizetext)
 	}
 	return tmp_count_bin;
 }
-
+/*
 int analysis(unsigned char* tempkey, int sizetext)
 {
 	int needsize;
@@ -477,7 +478,7 @@ int analysis(unsigned char* tempkey, int sizetext)
 	return 1;
 
 }
-
+*/
 int Max = 0;
 char* kk = "helloworld";
 int countRecords = 0;
